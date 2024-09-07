@@ -14,3 +14,5 @@
 - [Day 11](./day11): The Blackjack Capstone Project
 - [Day 12](./day12): Scope & Number Guessing Game
 - [Day 13](./day13): Debugging: How to Find and Fix Errors in your Code
+- [Day 14](./day14): Higher Lower Game Project
+
