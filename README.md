@@ -10,3 +10,4 @@
 - [Day 7](./day07): Hangman
 - [Day 8](./day08): Function Parameters & Caesar Cipher
 - [Day 9](./day09): Dictionaries, Nesting and the Secret Auction
+- [Day 10](./day10): Functions with Outputs
