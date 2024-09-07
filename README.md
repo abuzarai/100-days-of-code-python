@@ -12,3 +12,4 @@
 - [Day 9](./day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](./day10): Functions with Outputs
 - [Day 11](./day11): The Blackjack Capstone Project
+- [Day 12](./day12): Scope & Number Guessing Game
