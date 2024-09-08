@@ -21,3 +21,4 @@
 - [Day 16](./day16): Object Oriented Programming (OOP)
 - [Day 17](./day17): The Quiz Project
 - [Day 18](./day18): Turtle & the Graphical User Interface (GUI)
+- [Day 19](./day19): Instances, State and Higher Order Functions
