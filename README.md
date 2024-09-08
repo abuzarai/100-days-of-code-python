@@ -33,3 +33,4 @@
 - [Day 28](./day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](./day29): Building a Password Manager GUI App with Tkinter
 - [Day 30](./day30): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](./day31): Flash Card App Capstone Project
