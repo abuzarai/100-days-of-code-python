@@ -29,3 +29,4 @@
 - [Day 24](./day24): Files, Directories and Paths
 - [Day 25](./day25): Working with CSV Data and the Pandas Library
 - [Day 26](./day26): List Comprehension and the Nato Alphabet
+- [Day 27](./day27): Tkinter, *args, **kwargs and Creating GUI Programs
