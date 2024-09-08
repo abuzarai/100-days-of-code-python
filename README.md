@@ -16,3 +16,5 @@
 - [Day 13](./day13): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](./day14): Higher Lower Game Project
 
+## Intermediate
+- [Day 15](./day15): Local Development Environment Setup & the Coffee Machine
