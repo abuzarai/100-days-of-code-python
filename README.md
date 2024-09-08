@@ -18,3 +18,4 @@
 
 ## Intermediate
 - [Day 15](./day15): Local Development Environment Setup & the Coffee Machine
+- [Day 16](./day16): Local Development Environment Setup & the Coffee Machine
