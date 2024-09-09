@@ -42,3 +42,4 @@
 - [Day 35](./day35): Keys, Authentication & Environment Variables - Rain Notifier
 - [Day 36](./day36): Stock Trading News Alert Project
 - [Day 37](./day37): Habit Tracking Project: API Post Requests & Headers
+- [Day 38](./day38): Workout Tracking Using Google Sheets
