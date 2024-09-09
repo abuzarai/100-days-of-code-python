@@ -34,3 +34,6 @@
 - [Day 29](./day29): Building a Password Manager GUI App with Tkinter
 - [Day 30](./day30): Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31](./day31): Flash Card App Capstone Project
+
+## Intermediate+
+- [Day 32](./day32): Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher

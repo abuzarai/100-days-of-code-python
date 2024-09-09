@@ -1,0 +1,6 @@
+name,email,year,month,day
+Dad,dad@gmail.com,2024,3,31
+Mom, mom@gmail.conm, 2024,5,23
+Bestie, bestie@gmail.com, 2024,4,21
+
+-- make sure to replace one of them to current date and time for testing
