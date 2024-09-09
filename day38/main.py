@@ -6,11 +6,11 @@ WEIGHT = 54
 HEIGHT = 170
 AGE = 21
 
-APP_ID = "ec2856c5"
-API_KEY = "2dea058978a6d4c87f940e69ebd8e027"
+APP_ID = "********"
+API_KEY = "*********************"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
-sheety_endpoint = "https://api.sheety.co/5e71350aca0e943890c9d86a5c4c1d25/myWorkouts/workouts"
+sheety_endpoint = "https://api.sheety.co/***********************/myWorkouts/workouts"
 
 exercise_text = input("What exercise you did today? ")
 
@@ -45,7 +45,7 @@ for exercise in result["exercises"]:
     }
 
 bearer_header = {
-    "Authorization": "Bearer gasdfhfgw7w3729967weqsdh"
+    "Authorization": "Bearer **************"
 }
 sheet_response = requests.post(sheety_endpoint, json=sheet_input,headers=bearer_header)
 print(sheet_response.text)
