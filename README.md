@@ -44,3 +44,4 @@
 - [Day 37](./day37): Habit Tracking Project: API Post Requests & Headers
 - [Day 38](./day38): Workout Tracking Using Google Sheets
 - [Day 39](./day39): Capstone Part 1: Flight Deal Finder
+- [Day 40](./day40): Capstone Part 2: Flight Club
