@@ -40,4 +40,5 @@
 - [Day 33](./day33): API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34](./day34): API Practice - Creating a GUI Quiz App
 - [Day 35](./day35): Keys, Authentication & Environment Variables - Rain Notifier
-- [Day 35](./day36): Stock Trading News Alert Project
+- [Day 36](./day36): Stock Trading News Alert Project
+- [Day 37](./day37): Habit Tracking Project: API Post Requests & Headers
