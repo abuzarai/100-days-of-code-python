@@ -39,4 +39,5 @@
 - [Day 32](./day32): Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33](./day33): API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34](./day34): API Practice - Creating a GUI Quiz App
-- [Day 34](./day35): Keys, Authentication & Environment Variables - Rain Notifier
+- [Day 35](./day35): Keys, Authentication & Environment Variables - Rain Notifier
+- [Day 35](./day36): Stock Trading News Alert Project
