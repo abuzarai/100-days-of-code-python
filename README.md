@@ -47,3 +47,4 @@
 - [Day 40](./day40): Capstone Part 2: Flight Club
 - [Day 41](./day41): Introduction to HTML
 - [Day 42](./day42): Intermediate HTML
+- [Day 43](./day43): Introduction to CSS
