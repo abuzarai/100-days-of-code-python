@@ -49,3 +49,4 @@
 - [Day 42](./day42): Intermediate HTML
 - [Day 43](./day43): Introduction to CSS
 - [Day 44](./day44): Intermediate CSS
+- [Day 45](./day45): Web Scraping with Beautiful Soup
