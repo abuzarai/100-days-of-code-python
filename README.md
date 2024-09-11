@@ -55,3 +55,4 @@
 - [Day 48](./day48): Selenium Webdriver Browser and Game Playing Bot
 - [Day 49](./day49): Automating Job Applications on LinkedIn
 - [Day 50](./day50): Tinder Auto Swiping Bot
+- [Day 51](./day51): Internet Speed Twitter Complaint Bot
