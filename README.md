@@ -67,3 +67,4 @@
 ## Advanced
 - [Day 59](./day59): Blog Capstone Project Part 2 - Adding Styling
 - [Day 60](./day60): Make POST Requests with Flask and HTML Forms
+- [Day 61](./day61): Building Advanced Forms with Flask-WTForms
