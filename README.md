@@ -74,3 +74,4 @@
 - [Day 65](./day65): How to Create a Website That People Will Love
 - [Day 66](./day66): Building Your Own API with RESTful Routing
 - [Day 67](./day67): Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68](./day68): Authentication with Flask
