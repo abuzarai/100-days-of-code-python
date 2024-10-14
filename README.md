@@ -78,3 +78,4 @@
 - [Day 69](./day69): Blog Capstone Project Part 4 - Adding Users
 - [Day 70](./day70): Deploying Your Web Application with Heroku
 - [Day 71](./day71): Data Exploration with Pandas: College Major vs. Your Salary
+- [Day 72](./day72): Data Visualisation with Matplotlib: Programming Languages
