@@ -80,3 +80,4 @@
 - [Day 71](./day71): Data Exploration with Pandas: College Major vs. Your Salary
 - [Day 72](./day72): Data Visualisation with Matplotlib: Programming Languages
 - [Day 73](./day73): Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- [Day 74](./day74): Google Trends Data: Resampling and Visualising Time Series
