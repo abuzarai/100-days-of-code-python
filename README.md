@@ -79,3 +79,4 @@
 - [Day 70](./day70): Deploying Your Web Application with Heroku
 - [Day 71](./day71): Data Exploration with Pandas: College Major vs. Your Salary
 - [Day 72](./day72): Data Visualisation with Matplotlib: Programming Languages
+- [Day 73](./day73): Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
